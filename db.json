@@ -1,5 +1,4 @@
-[
-  {
+{
     "_id": "636d20efe580ae292f6416ec",
     "index": 0,
     "guid": "91212294-ea92-4b57-b940-5172fa35c784",
@@ -224,4 +223,4 @@
     "greeting": "Hello, Britt Davidson! You have 9 unread messages.",
     "favoriteFruit": "banana"
   }
-]
+
